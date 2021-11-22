@@ -11,8 +11,8 @@
 ## 도구   
 
 <div>
-  <image src=img/streamlit2.png width=200 height=200>
-  <image src=img/flask.png width=200 height=200>
+  <image src=img/streamlit2.png width=300 height=200>
+  <image src=img/flask.png width=250 height=200>
     </div>
 
 * Streamlit   
